@@ -1,2 +1,1 @@
-# testGitHub
-Testing my first project in github
+Updating the readme file to test.
